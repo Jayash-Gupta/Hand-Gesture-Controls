@@ -1,0 +1,53 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                              libraries and packages used
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+ open cv:
+ OpenCV is the huge open-source library for the computer vision, machine learning, and image processing and now it plays a major role in real-time 
+ operation which is very important in today’s systems. By using it, one can process images and videos to identify objects, faces, or even handwriting
+ of a human. When it integrated with various libraries, such as NumPy, python is capable of processing the OpenCV array structure for analysis. 
+ To Identify image pattern and its various features we use vector space and perform mathematical operations on these features.
+
+
+ mediapipe:
+---> Mediapipe is a cross-platform library developed by Google that provides amazing
+     ready-to-use ML solutions for computer vision tasks.
+--->OpenCV library in python is a computer vision library that is widely used for
+    image analysis, image processing, detection, recognition, etc.
+
+
+ ctypes:
+ Ctypes modules are foreign function libraries that provide C-compatible data types and allow the calling functions in shared libraries or dynamic
+ link libraries. In a foreign function library, the Python code will call C functions using only Python, without any special or custom-made extensions.
+ Ctypes modules are the most powerful library available for Python developers. They enable you to call functions in dynamically interlinked libraries 
+ and use them for low-level memory manipulations.
+
+
+ comtypes: package of ctypes
+ comtypes is a pure Python COM package based on the ctypes ffi foreign function library.
+ The comtypes package makes it easy to access and implement both custom and dispatch based COM interfaces.
+
+
+pycaw:
+python core audio windows library
+
+
+numpy: numeric python
+NumPy is a Python library used for working with arrays.
+It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+
+
+sbc: screen_brightness_control
+A Python tool for controlling the brightness of your monitor. Supports Windows and most flavours of Linux.
+
+
+pyautogui:
+PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications. The API is designed to be simple.
+PyAutoGUI works on Windows, macOS, and Linux, and runs on Python 2 and 3.
+
+
+os:
+Python OS module provides the facility to establish the interaction between the user and the operating system. It offers many useful OS functions
+that are used to perform OS-based tasks and get related information about operating system. The OS comes under Python's standard utility modules.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
