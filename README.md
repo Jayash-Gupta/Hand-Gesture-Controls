@@ -2,7 +2,7 @@
 
 Hand-Gesture-Controls makes human computer interaction simple by making use of Hand Gestures. The computer requires almost no direct contact. All i/o operations can be virtually controlled by using static and dynamic hand gestures. This project makes use of the state-of-art Computer Vision algorithms to recognize hand gestures, which works smoothly without any additional hardware requirements. It leverages models such as CNN implemented by [MediaPipe](https://github.com/google/mediapipe) running on top of pybind11. Works direct on hands by making use of MediaPipe Hand detection. Currently it works on Windows platform.
 
-Note: Use Python version: 3.10
+Note: Use Python version: 3.10.6
 
 # Features
  _click on dropdown to know more_ <br>
