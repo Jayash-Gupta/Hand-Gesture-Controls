@@ -5,7 +5,7 @@ Hand-Gesture-Controls makes human computer interaction simple by making use of H
 Note: Use Python version: 3.10.6
 
 # Features
- _click on dropdown to know more_ <br>
+[G-drive Link](https://drive.google.com/drive/u/1/folders/1KorQwmOe22r1xiF5Rx-BqbmfwMklSSVJ)
 
 ### Gesture Recognition:
 
